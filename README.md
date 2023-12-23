@@ -4,7 +4,7 @@
 ### Stats
 [![](https://github-readme-stats.vercel.app/api?username=clcord-developers&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/clcord-developers)
 
-- 🔭 I’m currently working on **clcord**
+- 🔭 I’m currently working on **Pycore**
 
 - 🧑‍💻 Developer of **Python**
 
